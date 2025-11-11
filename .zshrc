@@ -65,3 +65,10 @@ eval "$(fzf --zsh)"
 
 bindkey '^[[1;5C' forward-word
 bindkey '^[[1;5D' backward-word
+
+# bun completions
+[ -s "/home/karina/.bun/_bun" ] && source "/home/karina/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
