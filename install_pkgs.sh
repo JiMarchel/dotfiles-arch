@@ -25,6 +25,9 @@ packages=(
 	"stow"
 	"fzf"
 	"visual-studio-code-bin"
+	"podman"
+	"podman-compose"
+	"insomnia-bin"
 )
 
 # --- Validasi environment ---
