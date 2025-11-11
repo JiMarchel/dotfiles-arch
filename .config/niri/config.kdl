@@ -1,4 +1,5 @@
 spawn-at-startup "qs" "-c" "noctalia-shell"
+spawn-sh-at-startup "sleep 1 && steam -silent"
 
 // Remove window decoration
 prefer-no-csd
