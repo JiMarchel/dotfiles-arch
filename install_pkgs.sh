@@ -28,6 +28,7 @@ packages=(
 	"podman"
 	"podman-compose"
 	"insomnia-bin"
+	"discord"
 )
 
 # --- Validasi environment ---
