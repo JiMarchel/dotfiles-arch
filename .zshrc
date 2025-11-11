@@ -62,3 +62,6 @@ alias ll='ls -la --color'
 
 # Shell integrations
 eval "$(fzf --zsh)"
+
+bindkey '^[[1;5C' forward-word
+bindkey '^[[1;5D' backward-word
