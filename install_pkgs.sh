@@ -24,11 +24,14 @@ packages=(
 	"zsh"
 	"stow"
 	"fzf"
-	"visual-studio-code-bin"
-	"podman"
-	"podman-compose"
-	"insomnia-bin"
 	"discord"
+	
+	"visual-studio-code-bin"
+	"insomnia-bin"
+	"podman-compose"
+	"podman"
+	"nodejs"
+	"npm"
 )
 
 # --- Validasi environment ---
