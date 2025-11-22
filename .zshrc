@@ -59,6 +59,7 @@ zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 
 # Aliases
 alias ll='ls -la --color'
+# alias code='ELECTRON_OZONE_PLATFORM_HINT=wayland code --ozone-platform=wayland'
 
 # Shell integrations
 eval "$(fzf --zsh)"
