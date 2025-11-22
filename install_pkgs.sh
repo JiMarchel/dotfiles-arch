@@ -17,7 +17,7 @@ packages=(
 	"swaybg"
 	"firefox"
 	"ttf-jetbrains-mono-nerd"
-	"xwayland-sattelite"
+	"xwayland-satellite"
 	"vim"
 	"rofi"
 	"ghostty"
@@ -32,6 +32,10 @@ packages=(
 	"podman"
 	"nodejs"
 	"npm"
+
+	"wireshark-qt"
+	"nmap"
+	"rustscan"
 )
 
 # --- Validasi environment ---
