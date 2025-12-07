@@ -32,6 +32,8 @@ packages=(
 	"btop"
   "neovim"
   "lazygit"
+  "wl-clipboard"
+  "github-cli"
 	
 	"visual-studio-code-bin"
 	"insomnia-bin"
