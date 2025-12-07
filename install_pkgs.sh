@@ -30,6 +30,8 @@ packages=(
 	"net-tools"
 	"vim"
 	"btop"
+  "neovim"
+  "lazygit"
 	
 	"visual-studio-code-bin"
 	"insomnia-bin"
