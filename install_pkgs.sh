@@ -25,6 +25,11 @@ packages=(
 	"stow"
 	"fzf"
 	"discord"
+	"zen-browser-bin"
+	"onlyoffice-bin"
+	"net-tools"
+	"vim"
+	"btop"
 	
 	"visual-studio-code-bin"
 	"insomnia-bin"
@@ -36,6 +41,10 @@ packages=(
 	"wireshark-qt"
 	"nmap"
 	"rustscan"
+	"burpsuite"
+	"feroxbuster"
+	"ffuf"
+	"gobuster"
 )
 
 # --- Validasi environment ---
