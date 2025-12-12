@@ -118,7 +118,7 @@ binds {
     // Suggested binds for running programs: terminal, app launcher, screen locker.
     Mod+Return hotkey-overlay-title="Open a Terminal: Ghostty" { spawn "ghostty"; }
     Mod+D hotkey-overlay-title="Run an Application: Rofi" { spawn-sh "rofi -show drun"; }
-    Mod+B hotkey-overlay-title="Open browser" { spawn "zen-browser"; }
+    Mod+B hotkey-overlay-title="Open browser" { spawn "firefox"; }
     Mod+Shift+C hotkey-overlay-title="Open vscode" { spawn "code"; }
     Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
 
